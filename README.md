@@ -11,14 +11,15 @@ The '📁 Barchart/' directory contains code for visualizing (Bar chart) codewor
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - '📄 main.py': Loads codeword features and their corresponding labels, and generates a 3D visualization of the features.  
   
 The '📁 Heatmap/' directory contains code for visualizing (Heatmap) codeword features.:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - '📁 data/': Stores the original data.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - '📁 code/': Contains code for visualizing (Heatmap) codeword features.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - '📄 main.py': Read data from the 'data/' folder and generate heatmaps based on the mutual information (MI) and distance correlation (dCor) matrices.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - '📁 data/': Stores the original data.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - '📁 code/': Contains code for visualizing (Heatmap) codeword features.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - '📄 main.py': Read data from the 'data/' folder and generate heatmaps based on the mutual information (MI) and distance correlation (dCor) matrices.  
 
 
-**More tools will be further updated in the near future.**
+**More tools will be further updated in the near future.**  
 
-We release these tools, which have been used in the following papers, to enable further research. Proper citation of the associated publications would be greatly appreciated when these tools are used：
+
+We release these tools, which have been used in the following papers, to enable further research. Proper citation of the associated publications would be greatly appreciated when these tools are used:  
 1. C. Zhang, S. Jiang, Z. Chen, and J. Qian, "MSSN: Multi-Stream Steganalysis Network for Detection of QIM-based Steganography in VoIP Streams," in IEEE Transactions on Dependable and Secure Computing, doi: 10.1109/TDSC.2025.3612372.
-2. To be updated
-3. To be updated
+2. To be updated  
+3. To be updated  
