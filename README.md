@@ -21,5 +21,5 @@ The '📁 Heatmap/' directory contains code for visualizing (Heatmap) codeword f
 
 We release these tools, which have been used in the following papers, to enable further research. Proper citation of the associated publications would be greatly appreciated when these tools are used:  
 1. C. Zhang, S. Jiang, Z. Chen, and J. Qian, "MSSN: Multi-Stream Steganalysis Network for Detection of QIM-based Steganography in VoIP Streams," in IEEE Transactions on Dependable and Secure Computing, doi: 10.1109/TDSC.2025.3612372.
-2. To be updated  
-3. To be updated  
+2. C. Zhang, Y. Yan, S. Jiang, Z. Chen, and J. Qian, "Efficient Steganalysis Network for Detecting QIM-based VoIP Steganography," in IEEE Transactions on Audio, Speech and Language Processing, doi: 10.1109/TASLPRO.2025.3623019.
+3. C. Zhang, Y. Yan, S. Jiang and Z. Chen, "Efficient Detection of QIM-Based VoIP Steganography Using Adjacent Frame Integration and Multi-Codeword Priority Attention," in IEEE Signal Processing Letters, vol. 32, pp. 2534-2538, 2025, doi: 10.1109/LSP.2025.3580496.
